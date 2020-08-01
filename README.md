@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Alon 
 
-Here are some ideas to get you started:
+I am a Full Stack developer who loves all related Javascript technologies
 
 - 🔭 I’m currently working on several different projects
 - 🌱 I’m currently learning GraphQL, Next.js, Nest.js, typeorm, Design, testing
